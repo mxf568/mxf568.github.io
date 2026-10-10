@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mxf568.github.io/sitemap.xml
+Sitemap: https://mengxf.cn/sitemap.xml
